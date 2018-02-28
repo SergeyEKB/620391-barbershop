@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Сергей Стулин](https://up.htmlacademy.ru/htmlcss/20/user/620391).
+* Наставник: [Елена Валеева](https://htmlacademy.ru/profile/nikkie8).
 
 ---
 
